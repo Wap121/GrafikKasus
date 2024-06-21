@@ -1,1 +1,15 @@
-
+cara menggunakan :
+- install xampp terlebih dahulu
+- download file GrafikKasus
+- ekstrak filenya, kemudian hasil ekstraknya ganti nama jadi grafik-kasus
+- pindahkan file sewa mobil ke lokasi C:\xampp\htdocs\
+- buka xampp
+- start bagian apache dan mysql
+- klik admin pada bagian MySQL
+- klik new pada navigasi MySQL
+- kemudian isi nama kejari, setelah itu klik Create
+- kembali ke navigasi, pilih database kejari, kemudian pilih import di menu di dalamnya
+- choose file, kemudian pilih kejari.sql di lokasi pada point 4, setelah itu klik go pada pojok kanan bawah
+- database kejari siap digunakan
+- kemudian masuk http://localhost/grafik-kasus/index.php 
+- langkah menggunakan web dapat dilihat di file tutorial dalam bentuk pdf
